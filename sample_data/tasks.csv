@@ -1,0 +1,8 @@
+date,time,team,task,status,reference
+2026-10-19,09:00,Visitor Services,Prepare welcome desk,Confirmed,DEMO-101
+2026-10-19,11:30,Facilities,Check projector,Planned,DEMO-102
+2026-10-19,13:00,Community Outreach,Arrange workshop chairs,Changed,DEMO-103
+2026-10-20,08:30,Facilities,Inspect meeting rooms,Confirmed,DEMO-104
+2026-10-20,10:15,Visitor Services,Set out information packets,Cancelled,DEMO-105
+2026-10-21,14:00,Community Outreach,Host orientation,Planned,DEMO-106
+2026-10-21,15:30,Visitor Services,Prepare guest handouts,Confirmed,DEMO-107
